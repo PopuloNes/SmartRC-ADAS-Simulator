@@ -50,7 +50,7 @@ int main() {
         currentSpeed += (targetSpeed - currentSpeed) * 0.02f;
         currentSteering += (targetSteering - currentSteering) * 0.15f;
 
-        if (IsKeyDown(KEY_H)) myCar.motorTempC += 0.5f; // Греем мотор
+        if (IsKeyDown(KEY_H)) myCar.motorTempC += 0.5f;
 
         battery.update(myCar);
         thermal.update(myCar);
