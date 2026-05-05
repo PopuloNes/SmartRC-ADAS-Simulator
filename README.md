@@ -9,7 +9,7 @@ A professional **Software-In-the-Loop (SIL)** simulation environment for an auto
 
 > **Note:** This project focuses on complex safety algorithms, finite state machines, and real-time telemetry rendering without the need for physical hardware.
 
-[INSERT SCREENSHOT HERE - Drag and drop an image of your dashboard]
+
 
 ## 🌟 Key Features & Safety Protocols
 
