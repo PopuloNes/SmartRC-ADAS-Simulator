@@ -8,8 +8,7 @@
 A professional **Software-In-the-Loop (SIL)** simulation environment for an autonomous RC vehicle. This project demonstrates a **Drive-by-Wire** architecture where user inputs are filtered through an intelligent **Advanced Driver Assistance System (ADAS)** before reaching the actuators.
 
 > **Note:** This project focuses on complex safety algorithms, finite state machines, and real-time telemetry rendering without the need for physical hardware.
-
-
+<img width="795" height="588" alt="image" src="https://github.com/user-attachments/assets/5cda37c3-4d7f-423b-9015-99b18aba1fd6" />
 
 ## 🌟 Key Features & Safety Protocols
 
